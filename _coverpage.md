@@ -1,4 +1,4 @@
-![logo](images/doc_icon.svg)
+![logo](images/logo.svg)
 
 > This is a notebook
 
